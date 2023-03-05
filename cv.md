@@ -64,6 +64,13 @@ for(let i=0; i<parseIntBinary.length; i++){
 
 ***
 
+### __Experience:__
+
+- [X] "Morse code decoder" task. Skills used: JavaScript, Git. Link to task: https://github.com/romacher/morse-decoder. Link to source code: https://github.com/TV1GGER/morse-decoder/blob/master/src/index.js
+
+- [X] "Plants" task. Skills used: JavaScript, Git, CSS, HTML5, Figma, Chrome DevTools. Link to task: https://github.com/rolling-scopes-school/tasks/blob/master/tasks/plants/plants.md. Link to deployed version: https://rolling-scopes-school.github.io/tv1gger-JSFEPRESCHOOL2022Q4/plants/
+***
+
 ### __Education/Courses:__
 
 - [X] March 04, 2023 completed the "JS/FE Pre-School 2022Q4" RS School course ([my certificate](https://app.rs.school/certificate/hcrttvje))
