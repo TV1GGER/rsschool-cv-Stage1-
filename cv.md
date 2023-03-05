@@ -2,27 +2,27 @@
 
 ![Photo](https://i.ibb.co/tJbS2DV/IMG-20220824-085738999999.jpg)
 
-#### ***Contacts:***
+### **Contacts:**
 
-#### *Phone: +375336101231*
+##### *Phone: +375 33 6101231*
 
-#### *E-mail: tvigger@yandex.ru*
+##### *E-mail: tvigger@yandex.ru*
 
-#### *Telegram: @tvigger*
+##### *Telegram: @tvigger*
 
 ***
 
-#### __My goals:__
+### __My goals:__
  Develop in the IT field in the areas of QA-Manual (hereinafter QA-Automation) and Frontend Dev. 
 
 ***
 
-#### __My priorities:__ 
+### __My priorities:__ 
  Get theoretical knowledge and consolidate it in practice, constantly upgrade Soft and Hard skills.
 
 ***
 
-#### __Personal qualities:__
+### __Personal qualities:__
 
   - readiness for constant self
   - development
@@ -36,14 +36,14 @@
 
 ***
 
-#### __Skills:__ 
+### __Skills:__ 
 
  MS Excel/Word, Adobe Photoshop, Chrome DevTools, Jira, Bug Reporting.
 Work experience: no experience in real projects.
 
 ***
 
-#### __Code example:__ 
+### __Code example:__ 
 
 Kata(from *Codewars*): *"Bit Counting"*.
 
@@ -62,7 +62,9 @@ for(let i=0; i<parseIntBinary.length; i++){
 
 ```
 
-#### __Education/Courses:__
+***
+
+### __Education/Courses:__
 
 - [X] March 04, 2023 completed the "JS/FE Pre-School 2022Q4" RS School course ([my certificate](https://app.rs.school/certificate/hcrttvje))
 ![app.rs.school(Screenshot)](https://i.ibb.co/phsDrRZ/Screenshot-2.png)
