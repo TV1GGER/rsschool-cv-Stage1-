@@ -9,3 +9,13 @@
 #### *E-mail: tvigger@yandex.ru*
 
 ***
+
+#### __My goals:__
+ Develop in the IT field in the areas of QA-Manual (hereinafter QA-Automation) and Frontend Dev. 
+
+***
+
+#### __My priorities:__ 
+ Get theoretical knowledge and consolidate it in practice, constantly upgrade Soft and Hard skills.
+
+***
