@@ -40,3 +40,22 @@
 Work experience: no experience in real projects.
 
 ***
+
+#### __Code example:__ 
+
+Kata(from *Codewars*): *"Bit Counting"*.
+
+```javascript
+
+var countBits = function(n) {
+  let count=0;
+ let parseIntBinary = n.toString(2);
+for(let i=0; i<parseIntBinary.length; i++){
+  if(parseIntBinary[i].includes(1)){
+    count++;
+  }
+}
+  return count;
+};
+
+```
