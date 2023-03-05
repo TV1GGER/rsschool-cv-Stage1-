@@ -79,3 +79,5 @@ for(let i=0; i<parseIntBinary.length; i++){
 - [X] 2002-2002 "Institute for advanced training and retraining of managers and specialists of the educational institution Polotsk State University", specialty: "PC operator-user".
 
 ***
+
+#### *My __level of English__ (as measured by the EPAM Training Center tests)*: __B2__
