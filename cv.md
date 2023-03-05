@@ -19,3 +19,24 @@
  Get theoretical knowledge and consolidate it in practice, constantly upgrade Soft and Hard skills.
 
 ***
+
+#### __Personal qualities:__
+
+  - readiness for constant self
+  - development
+  - ability to learn quickly
+  - attentiveness
+  - activity
+  - purposefulness
+  - independence
+  - logical thinking
+  - sociability
+
+***
+
+#### __Skills:__ 
+
+ MS Excel/Word, Adobe Photoshop, Chrome DevTools, Jira, Bug Reporting.
+Work experience: no experience in real projects.
+
+***
