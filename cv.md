@@ -84,4 +84,4 @@ for(let i=0; i<parseIntBinary.length; i++){
 
 ***
 
-#### *My __level of English__ (as measured by the EPAM Training Center tests)*: __B2__
+##### *My __level of English__ (as measured by the EPAM Training Center tests)*: __B2__
