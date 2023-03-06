@@ -1,1 +1,57 @@
- 
+:root {
+    scroll-behavior: smooth;
+}
+* {
+padding: 0px;
+margin: 0px;
+border: none;
+}
+
+*,
+*::before,
+*::after {
+box-sizing: border-box;
+}
+
+html {
+width: 100%;
+max-width: 1440px;
+margin: 0 auto;
+position: absolute;
+padding: 0;
+top: 0; left: 0; bottom: 0; right: 0;
+min-height: 100%;
+}
+
+body {
+width: 1440px;
+height: 100%;
+}
+
+main{
+    background: #2dce0c;
+}
+
+.header {
+background-size: 100% auto;
+color: #010201;
+padding-left: 111px;
+padding-top: 42px;
+padding-bottom: 42px;
+padding-right: 109px;
+}
+
+.my-name{
+    color: rgb(255, 255, 255);
+    font-family: 'Inika';
+     font-style: normal;
+     font-weight: 400;
+     font-size: 16px;
+}
+.container{
+    display: flex;
+    color: rgb(241, 255, 49);
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
